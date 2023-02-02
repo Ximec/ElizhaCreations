@@ -1,2 +1,2 @@
 # ElizhaCreations
-Tienda Virtual Accesorios Moda
+Tienda Virtual Accesorios Moda en Proceso de desarrollo
